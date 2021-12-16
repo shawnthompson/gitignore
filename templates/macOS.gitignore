@@ -18,6 +18,9 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
+# iCloud generated files
+*.icloud
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
